@@ -9,6 +9,7 @@ public class duweiyi {
         System.out.println("duwieyi");
         System.out.println("duweiyi");
         System.out.println("DUWIEYII1232");
+        System.out.println("master");
     }
 
 }
