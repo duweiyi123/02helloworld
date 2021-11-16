@@ -8,6 +8,7 @@ public class duweiyi {
     public static void main(String[] args) {
         System.out.println("duwieyi");
         System.out.println("duweiyi");
+        System.out.println("DUWIEYII1232");
     }
 
 }
